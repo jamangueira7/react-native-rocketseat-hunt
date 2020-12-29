@@ -15,11 +15,11 @@
 <br>
 
 <h1 align="center">
-    <img alt="Rocketseat" title="Rocketseat" src=".github/font1.PNG" width="60px" />
+    <img alt="Rocketseat" title="Rocketseat" src=".github/font1.PNG" width="300px" height="600px" />
 </h1>
 
 <h1 align="center">
-    <img alt="Rocketseat" title="Rocketseat" src=".github/font2.PNG" width="60px" />
+    <img alt="Rocketseat" title="Rocketseat" src=".github/font2.PNG" width="300px" height="600px"/>
 </h1>
 
 ## Hunt App - React-native
